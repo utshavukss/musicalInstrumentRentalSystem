@@ -1,1 +1,0 @@
-A simple instrument rental system application based project where you can hire and put your instrument on rent at affordable price. Dart language and Flutter framework is used for frontent and for backend php and mysql is used.
